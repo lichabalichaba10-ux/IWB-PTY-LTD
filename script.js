@@ -10,3 +10,4 @@ menuToggle.addEventListener('change', () => {
     navMenu.classList.remove('open');
   }
 });
+
